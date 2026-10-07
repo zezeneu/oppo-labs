@@ -8,7 +8,7 @@
 #include "lesson_io.h"
 #include "lesson_sorting.h"
 
-// Просит ввести имя преподавателя и печатает его занятия.
+// Запрашивает имя преподавателя и печатает его занятия.
 void FilterAndPrint(const std::vector<Lesson>& lessons) {
   std::cout << std::endl << "Введите имя преподавателя для фильтра: ";
   std::string teacher_name;
