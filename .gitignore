@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.ipch
+*.pdb
+*.ilk
+*.exe
